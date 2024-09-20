@@ -8,6 +8,7 @@
  4. ponga despues npm run dev
  5. y el tendra que salir el localhost//6001 de la pagina
 
+en esta pagina que veras ahora tienes 2 botones uno aparece un texto y el otro pide una solicitud al servidor que te lleva a un json con un mensaje de saludo
 
 aca vas a ver como funciona un endpoint 
 
@@ -18,7 +19,7 @@ un endpoint es una peticion que le hace el usuario de la pagina con el servidor 
 por ejemplo mi endpoint de  
 ![alt text](image-1.png)
 
-en esta pagina que veras ahora tienes 2 botones uno aparece un texto y el otro pide una solicitud al servidor que te lleva a un json con un mensaje de saludo
+
 
 
 
