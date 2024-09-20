@@ -1,5 +1,14 @@
 # Bienvenido a mi api hecho pór Mauricio Sierra
 
+
+# INSTALACION
+ 1. abra la terminal puede ser desplegando la consola con ctr + ñ 
+ 2. escriba en la terminal git clone "https://github.com/MauricioGT2024/api.git"
+ 3. ponga npm install (si es necesario)
+ 4. ponga despues npm run dev
+ 5. y el tendra que salir el localhost//6001 de la pagina
+
+
 aca vas a ver como funciona un endpoint 
 
 - Endpont que es:
